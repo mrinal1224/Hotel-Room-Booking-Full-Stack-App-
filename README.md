@@ -17,4 +17,6 @@ Profile Page and Booking Page where users can see all their data and bookings Us
 
 
 This is a complete beginner friendly Project with Mern Stack (No Redux , No ContextAPI and minimum prop drilling) 
-So newbie developers can get an idea of how you can create a full stack project without any complex tools and technique
+So newbie developers can get an idea of how you can create a full stack project without any complex tools and techniques
+
+
